@@ -1,0 +1,1 @@
+This repo is forked from (https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe) . The original repo has support for only first 4 alphabets. I have trained 8 different models with varying architectures to test their accuracy by collecting the keypoints manually using ffmpeg capture
